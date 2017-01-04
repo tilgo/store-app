@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ffb676494953ce18f2c438513ece26c422ba4886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_089d53d9e7981c6f32fc25a1a91aaa7ad8bfc848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_c9d8747b185d3640ae737bbb2e35faa4ac2c72aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f442b1b6feda3ffb3bdd388baaf19e797fc6df1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_65615bedbc5592ba3c6ec2f558c5ed6d11dcad10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_eb41d75de6534e96da31129d08c950d57c68cd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_657424dbd3c3207919099e87c54090ea4287b11d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_f87c5ad00f993d8ab63eca2c651d7600be116b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_4a56a1f541956e1e0fead1deca04e03a313e3653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_1b4e99a3f44b5b51685da8898fb03de48f8e1ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_00e243a2a53a7b84800adbcee0c9b007398bf7bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a7ca9450c014b820309423a5f22ecd517258a495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee56b0bbeb25d7a0484aadb12acccb15ce321aee">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_73b9f75f61fd99ad26a1f239e4d95cdba8a503eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_dd97d1191f03bf52783ef93d59a4530f9c4c4f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_403e2994fae647357f1bb069bc395b7c94df42a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_7ce5a11cd1aa9de8192ada7148422d161a2b7277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_7d0f4762b69bcd309ed65092710f3056d6526664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b3f8106230dc0fafa92e09ea60e61168bbd2feb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_5440b15cb04b274a55663a7925a8bccd7d933f53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_febec3165a5f8ab5d397fba9e350a7ed42425668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_7b1ee9356c522a01aad993fb0e3069a38f836f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1b65c4c9639a2ceda4b14d988b8dd300d03f339b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ce10f7ca80ab3bb61f5edadeef893c4cd0d049f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3e5b7d927a352e7886e0f2b3bc63b16b9901c6a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8f92eba80792c9bd85a87201dfec2482bdbe4d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_ce42ca6664a47d5706899a2d269eacc2b6c9349d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_e89f7b276b23f7b4d1f90bcbc889deb0601081d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2c103b0fabeff54d825aa2b50da186b367ac7aac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d3cec9c36d0fbe5390b3cd9f66e9672a07491000">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e0a0725e9e9823b203cdd1476fa1f7d66def8ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_4e1ec25f6ccd33cce36f4d318357cc068656d1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_cb8797d5377692690286de2ddec10050191fcdf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_305d6675831964fe37e56cb08eaff73275dec7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_671090af0a0ce6721a5b24c4684b6b97436a7ca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_a74e50c90ad7250765638f55755e3cc2e09800f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_7b74356319c16da709069a4adcc5cd4fccc30db2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="814a121cba8c643a6085b8579a96bdd44fda2cc8">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9ded9fa450af8d941bea165d87c968d2254efb40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ad0ca37903ff6a6c5ef4cbf48fe6d648c2b5b2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957a0f1d6e534c88f0443b8f6ec7571daeef4c8a">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e47a7fa1b57296fb8c3e0841dd05005d858757ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_851e409e9df940923d8b283a68016c95065b44f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_d0f922d13c73cadfa3ebb3a8d9a11f914bcfc6ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Tilen\Android projects\trgovina\store-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_7d93506d21e9b8fed60ab0a65537bdc1beb4f261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_ccbd827fbc7ae4ff05832c37e71ccf95a9e6da01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_e67e10b41434b19475115cdb7a23b0e8edc110b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Tilen\Android projects\EP\android-rest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_af65721f9cbf1107b54563375c3b92a5ab920ec7\classes.dex" />
+    </item>
+
+</items>
