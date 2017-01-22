@@ -10,7 +10,7 @@ import retrofit2.http.Path;
 
 public class ArtikelService {
     interface RestApi {
-        String URL = "http://192.168.178.24:8080/netbeans/ep-store/api/"; //10.0.2.2:8080
+        String URL = "http://10.0.2.2:8080/netbeans/ep-store/api/"; //10.0.2.2:8080
 
         @GET("artikli")
         Call<List<Artikel>> getAll();
