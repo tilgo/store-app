@@ -17,27 +17,7 @@ public class ArtikelService {
 
         @GET("artikli/{id}")
         Call<Artikel> get(@Path("id") int id);
-        /*
-        @FormUrlEncoded
-        @POST("books")
-        Call<Void> insert(@Field("author") String author,
-                          @Field("title") String title,
-                          @Field("price") double price,
-                          @Field("year") int year,
-                          @Field("description") String description);
 
-        @FormUrlEncoded
-        @PUT("books/{id}")
-        Call<Void> update(@Path("id") int id,
-                          @Field("author") String author,
-                          @Field("title") String title,
-                          @Field("price") double price,
-                          @Field("year") int year,
-                          @Field("description") String description);
-
-        @DELETE("books/{id}")
-        Call<Void> delete(@Path("id") int id);
-        */
     }
 
     private static RestApi instance;
